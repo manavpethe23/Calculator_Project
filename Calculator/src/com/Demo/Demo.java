@@ -7,6 +7,9 @@ public class Demo {
 				System.out.println(45-62);
 
 	}
+	public void sub() {
+		System.out.println(12-4);
+	}
 	
 	public static void main(String[] args) {
 		Demo d = new Demo();
@@ -14,5 +17,6 @@ public class Demo {
 	}
 
 }
+
 
 
